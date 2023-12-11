@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
-<img src="https://github.com/AnantaDey/AnantaDey/Images/text.gif" width="590px" height="60px">
+<img src="https://github.com/AnantaDey/AnantaDey/blob/main/Name.gif" width="590px" height="60px">
 
-Meticulous and motivated postgraduate student , indulged in datascience and mathematics. 
+Meticulous and motivated postgraduate student at IIT Guwahati, indulged in datascience and mathematics. 
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
   
 
@@ -81,7 +81,7 @@ Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor 
   
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/octocat.jpeg" height=300 width=300>
 
- ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
+ ### ⚡ Fun fact about me: ✨ I love coding+eating+sleeping+repeating✨ 
  
 
 <h2>Connect with me!  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h2>
